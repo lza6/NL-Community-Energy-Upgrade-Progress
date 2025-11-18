@@ -65,11 +65,7 @@
 
 点击下面的链接，你的"油猴管家"会自动弹出并询问你是否安装。
 
-<div align="center">
-  <a href="https://greasyfork.org/zh-CN/scripts/545924-nl%E7%A4%BE%E5%8C%BA%E6%98%BE%E7%A4%BA%E8%83%BD%E9%87%8F%E5%92%8C%E5%8D%87%E7%BA%A7%E8%BF%9B%E5%BA%A6" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: all 0.3s ease;">
-    🚀 点击这里，一键安装脚本 🚀
-  </a>
-</div>
+[![一键安装](https://img.shields.io/badge/安装脚本-点击一键安装-brightgreen)](https://raw.githubusercontent.com/lza6/NL-Community-Energy-Upgrade-Progress/main/NL.user.js)
 
 **第三步：享受吧！**
 
