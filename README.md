@@ -3,7 +3,7 @@
 [![许可证](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![版本](https://img.shields.io/badge/Version-2025.11.18-brightgreen.svg)](https://github.com/lza6/NL-Community-Energy-Upgrade-Progress/blob/main/NL.js)
 [![作者](https://img.shields.io/badge/Author-IWLZ%20(Modified%20by%20AI)-orange.svg)](https://github.com/lza6)
-[![Greasy Fork](https://img.shields.io/badge/Greasy_Fork-点击安装-success.svg)](https://greasyfork.org/zh-CN/scripts/545924-nl%E7%A4%BE%E5%8C%BA%E6%98%BE%E7%A4%BA%E8%83%BD%E9%87%8F%E5%92%8C%E5%8D%87%E7%BA%A7%E8%BF%9B%E5%BA%A6)
+[![Greasy Fork](https://img.shields.io/badge/Greasy_Fork-点击安装-success.svg)](https://raw.githubusercontent.com/lza6/NL-Community-Energy-Upgrade-Progress/main/NL.user.js)
 
 > ✨ "每一次刷新，都是对未知的探索；每一行代码，都是与未来的对话。这个脚本，献给在数字世界中不断追寻、渴望成长的你。"
 
