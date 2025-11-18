@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NL社区显示能量和升级进度
 // @namespace    http://tampermonkey.net/
-// @version      2025年11月18日
+// @version      2025.11.18.1
 // @description  在 Nodeloc / Linux.do 等 Discourse 论坛的顶部导航栏显示能量和升级进度。
 // @author       IWLZ (Modified by AI)
 // @match        https://www.nodeloc.com/*
@@ -9,9 +9,9 @@
 // @match        https://clochat.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=nodeloc.com
 // @grant        none
-// @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/545924/NL%E6%98%BE%E7%A4%BA%E8%83%BD%E9%87%8F.user.js
-// @updateURL https://update.greasyfork.org/scripts/545924/NL%E6%98%BE%E7%A4%BA%E8%83%BD%E9%87%8F.meta.js
+// @license      Apache-2.0 license
+// @downloadURL  https://raw.githubusercontent.com/lza6/NL-Community-Energy-Upgrade-Progress/main/NL.js
+// @updateURL    https://raw.githubusercontent.com/lza6/NL-Community-Energy-Upgrade-Progress/main/NL.js
 // ==/UserScript==
 
 (function () {
